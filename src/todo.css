@@ -1,0 +1,40 @@
+.todo{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(#234a91, #912077);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    
+}
+
+.todo-list{
+   display: flex;
+   
+   
+   
+    
+}
+
+.todo-Input{
+    width: 230px;
+    height: 40px;
+    border-radius:5px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+}
+.todo-submit{
+    width: 130px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
